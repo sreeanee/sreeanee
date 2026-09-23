@@ -334,4 +334,52 @@ Throughout my career, I've demonstrated expertise in:
 
 - **Frontend Development**: Built responsive, user-centric interfaces using React.js and Angular, implementing state management with Redux and creating single-page applications that enhanced user experience across **10+ application modules**. Reduced frontend defect rework by **20%** through component-driven design and comprehensive testing.
 
-- **Database Engineering**:
+- **Database Engineering**: Designed database-driven functionality using **PostgreSQL**, **MySQL**, **Oracle**, **MongoDB**, and **Redis**, applying data modeling, indexing, and query optimization to support **10+ business workflows** and improve query performance by **20%**.
+
+- **Cloud & DevOps**: Supported cloud-native deployments on **AWS** and **Azure** using **Docker**, **Kubernetes**, and **Jenkins**, contributing to **38+ application releases** through CI/CD pipelines.
+
+- **Security**: Implemented secure access with **Spring Security**, **OAuth 2.0**, **JWT**, and **RBAC** across **8+ application modules**.
+
+- **Quality Engineering**: Wrote automated unit, integration, and API tests with **JUnit**, **Mockito**, and **Jest**, covering **120+ test scenarios** and resolving **75+ production issues**.
+
+- **AI & LLM**: Tested and evaluated LLM responses across **100+ prompts** and prepared **500+ training examples** for model development.
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+| Role | Company | Period | Focus |
+|------|---------|--------|-------|
+| **Senior Full Stack Developer** | PNC | Sep 2023 – Present | Java, Spring Boot, React.js, TypeScript, microservices, OAuth 2.0/JWT, CI/CD |
+| **Full Stack Developer** | Cigna | Jul 2022 – Aug 2023 | Spring Boot, React/Angular, Kafka, RabbitMQ, REST/JSON/XML integrations |
+| **Full Stack Developer** | CitiusTech | Jan 2020 – May 2021 | Healthcare technology, Spring Boot APIs, React/Angular, Spring Security |
+
+---
+
+## 🧪 FEATURED WORK
+
+- **LLM Model Testing & Evaluation**: reviewed model responses against evaluation criteria, analyzed reasoning quality and consistency, and prepared training data.
+- **Full Stack Application Development**: Java, Spring Boot, React.js, TypeScript, and REST APIs with PostgreSQL/MySQL across **10+ workflows**.
+
+Explore my repositories below for more.
+
+---
+
+## 🎓 EDUCATION
+
+**Bachelor of Engineering, Computer Science**: University of Calicut, India (2006 – 2010)
+
+---
+
+## 🤝 LET'S CONNECT
+
+I'm open to conversations about full stack engineering, microservices, and LLM evaluation.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreetha-aneesh-47a96130/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeanee2021@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:1a1b27,100:0d1117&height=120&section=footer" />
+
+</div>
