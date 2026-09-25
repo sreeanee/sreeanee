@@ -45,6 +45,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sreethaaneesh.com-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sreethaaneesh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreetha-aneesh-47a96130/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreeanee)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeanee2021@gmail.com)
@@ -377,7 +378,9 @@ I'm open to conversations about full stack engineering, microservices, and LLM e
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sreethaaneesh.com-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sreethaaneesh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreetha-aneesh-47a96130/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreeanee)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeanee2021@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:1a1b27,100:0d1117&height=120&section=footer" />
